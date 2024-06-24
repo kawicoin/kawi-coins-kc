@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^4.0.92",
+    "axios": "^1.7.2",
+    "ethers": "^5.7.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "ganache-cli": "^6.12.2",
+    "path": "^0.12.7",
+    "thirdweb": "^5.27.0",
+    "web3": "^4.9.0"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
